@@ -1,0 +1,23 @@
+.p {
+  background-color: lightcoral;  
+  font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+  width: 200px;
+}
+
+.p.cooler{
+    font-size: 20px;
+}
+
+#two {
+    font-size: 40px;
+    color: blue;
+}
+
+#four {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: lightgreen;
+    width: 500px;
+}
+
